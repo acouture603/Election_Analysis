@@ -17,6 +17,8 @@ The purpose of the project is to understand total voter turnout for each county,
 Of the 369,711 total votes, the winner of the election is Diana DeGette earning 73.8% of those votes.  The largest couty turnover was Denver, representing 82.8% of the total votes.
 
 
+Election Results.png
+
 - How many votes were cast in this congressional election? 369,711
 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
