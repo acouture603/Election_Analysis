@@ -9,6 +9,7 @@ This project consists of analyzing the election audit results for the election c
 The purpose of the project is to understand total voter turnout for each county, the percentage of votes from each county out of the total count, the county with the highest turnout and the overall winner of the election.
 
 
+
 ## Election Audit Results
 
 
@@ -16,7 +17,8 @@ The purpose of the project is to understand total voter turnout for each county,
 
 Of the 369,711 total votes, the winner of the election is Diana DeGette earning 73.8% of those votes.  The largest couty turnover was Denver, representing 82.8% of the total votes.
 
-                        ![Election Results](https://user-images.githubusercontent.com/120402941/233480262-f6048340-a9ff-4859-b3ce-224e96f1ee1a.png)
+
+![Election Results](https://user-images.githubusercontent.com/120402941/233480262-f6048340-a9ff-4859-b3ce-224e96f1ee1a.png)
 
 
 - How many votes were cast in this congressional election? 369,711
@@ -42,6 +44,8 @@ Of the 369,711 total votes, the winner of the election is Diana DeGette earning 
 
 
 
-### Election Audit Summary
+
+## Election Audit Summary
+
 
 The election commisssion can use this script to understand voter turnerout as well as election final results.  The script could be modified for other elections using alternate counties and candiate names.  Additional key/variable data could also be added to include furhter analysis of voter demographics as needed.
